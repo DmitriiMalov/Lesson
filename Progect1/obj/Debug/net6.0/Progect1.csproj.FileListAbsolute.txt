@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\bin\Debug\net6.0\Progect1.exe
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\bin\Debug\net6.0\Progect1.deps.json
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\bin\Debug\net6.0\Progect1.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\bin\Debug\net6.0\Progect1.dll
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\bin\Debug\net6.0\Progect1.pdb
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.dll
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\refint\Progect1.dll
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.pdb
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\Progect1.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\DZ\Lesson1\Progect1\obj\Debug\net6.0\ref\Progect1.dll
